@@ -18,5 +18,5 @@
 
 1. Clone or download the project repository:
 ```bash
-git clone https://github.com/KuzivValentyn/Finance-Analize
+git clone https://github.com/KuzivValentyn/Finance-Analize.git
 cd Finance-Analize 
