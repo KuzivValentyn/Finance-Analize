@@ -32,7 +32,7 @@
 
 ### 📌 Współczynniki modelu
 
-| Zmienna     | Współczynnik | Błąd Std. | Statystyka t | P>|t| | Przedział ufności [0.025, 0.975] |
+| Zmienna     | Współczynnik | Błąd Std.  | Statystyka t  | P>|t| | Przedział ufności          |
 |-------------|--------------|------------|---------------|-------|----------------------------|
 | const       | 7256.23      | 234.23     | 30.98         | 0.000 | [6796.51, 7715.96]         |
 | EURPLN      | -1179.17     | 53.47      | -22.05        | 0.000 | [-1284.12, -1074.22]       |
