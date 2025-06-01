@@ -10,9 +10,8 @@
 
 ### Supporting Files
 - **requirements.txt** - Lists all Python dependencies
-- **Data/processed_data.csv** - Output file containing cleaned and processed data
-- **Reports/summary_report.docx** - Comprehensive analysis summary in Word format
-- **Dashboards/financial_dashboard.pbix** - Interactive Power BI visualization dashboard
+- **processed_data.csv** - Output file containing cleaned and processed data
+- **ReportPL/ENG** - Comprehensive analysis summary in Word format
 
 ## Setup Instructions
 
