@@ -39,6 +39,6 @@
 
 ---
 
-📌 **Interpretation**:  
+**Interpretation**:  
 There is a statistically significant relationship between the EUR/PLN exchange rate and the WIG20 index.  
 The negative coefficient (-1179.17) indicates that as the EUR/PLN rate increases, the WIG20 index tends to decrease.
