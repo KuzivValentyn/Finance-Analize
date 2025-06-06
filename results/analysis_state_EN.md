@@ -1,23 +1,23 @@
 
-# 📊 Correlation Analysis between the WIG20 Index and the EUR/PLN Currency Pair
+# Correlation Analysis between the WIG20 Index and the EUR/PLN Currency Pair
 
 ---
 
-## 🧪 Research Methodology
+# Research Methodology
 
-- **Analysis period**: Daily data from **2018-02-15**
-- **Methods used**:
-  - 📈 Linear regression (OLS)
-  - 📉 STL decomposition (Seasonal-Trend using LOESS)
-  - 📊 Descriptive statistics
+*Analysis period** Daily data from **2018-02-15**
+**Methods used**
+  Linear regression (OLS)
+  STL decomposition (Seasonal-Trend using LOESS)
+  Descriptive statistics
 
 ---
 
-## 📉 Linear Regression Results
+##  Linear Regression Results
 
-> **Model**: OLS (Ordinary Least Squares)  
-> **Dependent variable**: `WIG20`  
-> **Independent variable**: `EUR/PLN`
+ **Model**: OLS (Ordinary Least Squares)  
+ **Dependent variable** `WIG20`  
+ **Independent variable** `EUR/PLN`
 
 | Metric              | Value           |
 |---------------------|------------------|
@@ -30,7 +30,7 @@
 
 ---
 
-### 📌 Model Coefficients
+###  Model Coefficients
 
 | Variable    | Coefficient | Std. Error | t-Statistic | P>|t| | Confidence Interval [0.025, 0.975] |
 |-------------|-------------|------------|-------------|-------|-------------------------------|
