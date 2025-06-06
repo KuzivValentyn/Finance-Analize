@@ -4,9 +4,9 @@ This project downloads historical data for EUR/PLN currency pair and WIG20 stock
 
 ## Files
 
-- `download_and_process.py` — downloads data from Yahoo Finance, processes it, and saves the cleaned dataset as CSV.
-- `analysis.py` — loads the processed data, performs correlation analysis, and visualizes the results using plots.
-- `requirements.txt` — lists Python dependencies required for the project.
+ `download_and_process.py` — downloads data from Yahoo Finance, processes it, and saves the cleaned dataset as CSV.
+ `analysis.py` — loads the processed data, performs correlation analysis, and visualizes the results using plots.
+ `requirements.txt` — lists Python dependencies required for the project.
 
 ## Setup
 
